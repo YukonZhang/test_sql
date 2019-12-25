@@ -1,0 +1,6 @@
+selenium==3.141.0
+Scrapy==1.6.0
+fake_useragent==0.1.11
+setuptools==41.4.0
+fontTools==4.1.0
+js2py==0.66
